@@ -1,0 +1,20 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: century gothic;
+
+}
+
+header{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../rup.jpg );
+	
+	height: 800px;
+ 	background-size: cover;
+
+}
+h3{
+    color: #fff;
+	float: right;
+	top: 500px;
+    
+}
